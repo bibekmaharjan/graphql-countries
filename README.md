@@ -54,7 +54,6 @@ A Next.js application that fetches and visualizes country, continent, and langua
 - **Styling:** Tailwind CSS
 - **GraphQL Client:** Apollo Client
 - **Charts:** Recharts
-- **UI Components:** Radix UI
 - **Icons:** React Icons
 - **Fonts:** Geist, Next/font
 - **Code Quality:**
